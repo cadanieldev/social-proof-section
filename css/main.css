@@ -187,6 +187,7 @@ body {
     width: 100%;
     margin: 0 auto;
     padding: 1rem;
+    margin: 3rem 0 3rem 0;
   }
   .hero-content {
     display: flex;
@@ -265,6 +266,7 @@ body {
     width: 21.875rem;
     padding: 0.5rem; /* Reduz o padding do container */
     margin: 0 auto;
+    margin: 3rem 0 3rem 0;
   }
   .hero-content {
     width: 300px;
